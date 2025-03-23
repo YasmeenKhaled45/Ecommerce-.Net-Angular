@@ -1,0 +1,15 @@
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\bin\Debug\net8.0\Infrustructure.deps.json
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\bin\Debug\net8.0\Infrustructure.dll
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\bin\Debug\net8.0\Infrustructure.pdb
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\bin\Debug\net8.0\Core.dll
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\bin\Debug\net8.0\Core.pdb
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.AssemblyReference.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfoInputs.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfo.cs
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustr.16C4BF02.Up2Date
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.dll
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\refint\Infrustructure.dll
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.pdb
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\ref\Infrustructure.dll

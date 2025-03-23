@@ -1,0 +1,262 @@
+[
+  {
+    "Name": "CeraVe Hydrating Facial Cleanser",
+    "Description": "Gentle facial cleanser for normal to dry skin, formulated with ceramides and hyaluronic acid.",
+    "Price": 618.00,
+    "PictureUrl": "/images/products/HydratingCleanserWithAward_png.png",
+    "Type": "Cleanser",
+    "Brand": "CeraVe",
+    "QuantityInStock": 120,
+    "Rate": 4.8
+  },
+   {
+  "Name": "Body Shea Milk",
+  "Description": "A nourishing body lotion enriched with shea butter and milk proteins, designed to deeply hydrate, soften, and soothe the skin.",
+  "Price": 189.00,
+  "PictureUrl": "/images/products/shaan.jpg",
+  "Type": "Body Lotion",
+  "Brand": "SheaCare",
+  "QuantityInStock": 150,
+  "Rate": 4.7
+  },
+  {
+    "Name": "La Roche-Posay Anthelios Sunscreen SPF 50",
+    "Description": "Lightweight, broad-spectrum sunscreen with a non-greasy finish for daily use.",
+    "Price": 583.00,
+    "PictureUrl": "/images/products/png-transparent-sunscreen.png",
+    "Type": "Sunscreen",
+    "Brand": "La Roche-Posay",
+    "QuantityInStock": 75,
+    "Rate": 4.9
+  },
+  {
+    "Name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "Description": "High-strength vitamin and mineral blemish formula for clearer skin.",
+    "Price": 150.00,
+    "PictureUrl": "/images/products/Ordianry-img.png",
+    "Type": "Serum",
+    "Brand": "The Ordinary",
+    "QuantityInStock": 150,
+    "Rate": 4.7
+  },
+  {
+    "Name": "Elemis Dynamic Resurfacing Facial Wash",
+    "Description": "Skin-smoothing face cleanser that helps purify and gently exfoliate for a renewed complexion.",
+    "Price": 1200.00,
+    "PictureUrl": "/images/products/51djxIPi4QL.jpg",
+    "Type": "Cleanser",
+    "Brand": "CeraVe",
+    "QuantityInStock": 30,
+    "Rate": 4.8
+  },
+  {
+    "Name": "Heartleaf 77% Soothing Toner",
+    "Description": "Calming and refreshing toner with 77% Heartleaf extract, designed to care for troubled skin and maintain a pH balance of 5.5.",
+    "Price": 850.00,
+    "PictureUrl": "/images/products/411l1cCIg8L.jpg",
+    "Type": "Toner",
+    "Brand": "Heartleaf",
+    "QuantityInStock": 80,
+    "Rate": 4.7
+  },
+  {
+    "Name": "Leylak Body Oil",
+    "Description": "Luxurious body oil that nourishes and hydrates the skin, leaving it soft and delicately scented with leylak essence.",
+    "Price": 650.00,
+    "PictureUrl": "/images/products/314OMIoSFcL.jpg",
+    "Type": "Body Oil",
+    "Brand": "Lylak",
+    "QuantityInStock": 100,
+    "Rate": 4.5
+  },  
+  {
+    "Name": "Body Lightening Lotion with Snail Extract, Alpha Arbutin, and Collagen",
+    "Description": "A nourishing body lotion formulated with snail extract, alpha arbutin, and collagen to brighten skin tone, improve elasticity, and provide deep hydration.",
+    "Price": 950.00,
+    "PictureUrl": "/images/products/51Tl9tGaGgL.jpg",
+    "Type": "Body Lotion",
+    "Brand": "SkinGlow",
+    "QuantityInStock": 70,
+    "Rate": 6.6
+  },  
+  {
+    "Name": "Neutrogena Hydro Boost Water Gel",
+    "Description": "Refreshing gel moisturizer with hyaluronic acid for intense hydration.",
+    "Price": 337.00,
+    "PictureUrl": "/images/products/516-GLzE6VL.jpg",
+    "Type": "Moisturizer",
+    "Brand": "Neutrogena",
+    "QuantityInStock": 95,
+    "Rate": 4.6
+  },
+  {
+    "Name": "Drunk Elephant T.L.C. Sukari Babyfacial",
+    "Description": "Powerful exfoliating mask with AHA and BHA to refine and smooth skin texture.",
+    "Price": 80.00,
+    "PictureUrl": "/images/products/download (1).jpg",
+    "Type": "Mask",
+    "Brand": "Drunk Elephant",
+    "QuantityInStock": 30,
+    "Rate": 4.7
+  },
+  {
+    "Name": "Bioderma Sensibio H2O Micellar Water",
+    "Description": "Gentle makeup remover and cleanser suitable for sensitive skin.",
+    "Price": 220.00,
+    "PictureUrl": "/images/products/download.jpg",
+    "Type": "Cleanser",
+    "Brand": "Bioderma",
+    "QuantityInStock": 130,
+    "Rate": 4.9
+  },
+  {
+    "Name": "Alejon Urea Cream",
+    "Description": "Moisturizing cream formulated with urea to hydrate and soften dry, rough, and cracked skin. Ideal for treating conditions like eczema and psoriasis.",
+    "Price": 297.00,
+    "PictureUrl": "/images/products/Alejon-Urea.png",
+    "Type": "Moisturizer",
+    "Brand": "Alejon",
+    "QuantityInStock": 200,
+    "Rate": 8.5
+  },
+  {
+    "Name": "Berrylicious Travel Size Hand & Body Lotion",
+    "Description": "A fruity-scented, lightweight lotion perfect for on-the-go hydration. Formulated with nourishing ingredients to moisturize and soften both hands and body, leaving a refreshing berry fragrance.",
+    "Price": 95.00,
+    "PictureUrl": "/images/products/bodylotionbubblez.jpg",
+    "Type": "Hand & Body Lotion",
+    "Brand": "BerryCare",
+    "QuantityInStock": 400,
+    "Rate": 6.4
+  },
+  {
+    "Name": "Vitabalm",
+    "Description": "A nourishing and soothing balm packed with vitamins to hydrate and repair dry, chapped skin. Ideal for use on lips, hands, and other dry areas of the body.",
+    "Price": 120.00,
+    "PictureUrl": "/images/products/vitabalm.jpg",
+    "Type": "Balm",
+    "Brand": "Vitacare",
+    "QuantityInStock": 300,
+    "Rate": 4.6
+  },
+  {
+    "Name": "Baby Daily Moisturizer Face&Body",
+    "Description": "Gentle and hydrating moisturizer designed for the delicate skin of babies. Suitable for both face and body, this formula is free from harsh chemicals, leaving skin soft and nourished.",
+    "Price": 180.00,
+    "PictureUrl": "/images/products/blankie.png",
+    "Type": "Moisturizer",
+    "Brand": "BabyCare",
+    "QuantityInStock": 250,
+    "Rate": 4.7
+  },
+  {
+    "Name": "Natural Moisturizing Factors + HA 100ml",
+    "Description": "A lightweight, non-greasy moisturizer formulated to replenish the skin's natural moisturizing factors and boost hydration. Infused with Hyaluronic Acid and amino acids, it provides lasting moisture and helps maintain the skin's natural barrier, leaving it smooth, soft, and healthy-looking.",
+    "Price": 329.00,
+    "PictureUrl": "/images/products/61QeWnQe0IL.jpg",
+    "Type": "Moisturizer",
+    "Brand": "The Ordinary",
+    "QuantityInStock": 200,
+    "Rate": 7.3
+  },  
+  {
+    "Name": "Almond Oil Vanilla Fields Body Lotion",
+    "Description": "A rich and nourishing body lotion infused with almond oil and vanilla, designed to hydrate and soften the skin while leaving a pleasant, long-lasting fragrance.",
+    "Price": 70.00,
+    "PictureUrl": "/images/products/Body-Loation.jpg",
+    "Type": "Body Lotion",
+    "Brand": "Vanilla Fields",
+    "QuantityInStock": 150,
+    "Rate": 8.0
+  },
+  {
+    "Name": "Intensive Care Cocoa Radiant Body Oil",
+    "Description": "A deeply hydrating body oil enriched with cocoa butter, designed to restore skin's natural radiance and smoothness, leaving it soft and moisturized.",
+    "Price": 325.00,
+    "PictureUrl": "/images/products/512eDVgvx+L.jpg",
+    "Type": "Body Oil",
+    "Brand": "Vaseline",
+    "QuantityInStock": 180,
+    "Rate": 4.6
+  },
+{
+    "Name": "Starville Cleanser",
+    "Description": "A gentle and effective facial cleanser designed to remove impurities, leaving the skin refreshed and clean.",
+    "Price": 269.00,
+    "PictureUrl": "/images/products/starville.jpg",
+    "Type": "Cleanser",
+    "Brand": "Starville",
+    "QuantityInStock": 120,
+    "Rate": 7.5
+  },
+  {
+    "Name": "Leylak Cleansing",
+    "Description": "An advanced cleansing solution for all skin types, providing deep pore cleansing and hydration.",
+    "Price": 231.00 ,
+    "PictureUrl": "/images/products/leylak-cleansing.jpg",
+    "Type": "Cleanser",
+    "Brand": "Lylak",
+    "QuantityInStock": 90,
+    "Rate": 6.4
+  },
+  {
+    "Name": "Bodysplash Vanilla Coconut Eva",
+    "Description": "A refreshing bodysplash with a tropical vanilla and coconut fragrance, perfect for daily use.",
+    "Price": 232.5,
+    "PictureUrl": "/images/products/bodysplash.jpg",
+    "Type": "Body Splash",
+    "Brand": "Eva",
+    "QuantityInStock": 150,
+    "Rate": 5.7
+  },
+  {
+    "Name": "Milk & Honey Body Lotion",
+    "Description": "A luxurious body lotion infused with milk and honey to nourish and hydrate your skin deeply.",
+    "Price": 359.7,
+    "PictureUrl": "/images/products/bodylotion.jpg",
+    "Type": "Body Lotion",
+    "Brand": "Oriflame",
+    "QuantityInStock": 75,
+    "Rate": 4.8
+  },
+  {
+    "Name": "Moisturizing Shower Cream Summer Twist",
+    "Description": "A rich shower cream with a refreshing summer scent that cleanses and moisturizes your skin.",
+    "Price": 277.5,
+    "PictureUrl": "/images/products/bodylotioneva.jpg",
+    "Type": "Shower Cream",
+    "Brand": "Dove",
+    "QuantityInStock": 110,
+    "Rate": 4.6
+  },
+  {
+    "Name": "Dermaelle Hyaluwhite Face",
+    "Description": "A luxurious cream designed to brighten and hydrate the skin on the face and neck. Infused with Hyaluronic Acid and Whitening agents, it helps to reduce the appearance of dark spots and fine lines, leaving the skin looking smooth, firm, and radiant.",
+    "Price": 329.00,
+    "PictureUrl": "/images/products/1.jpg",
+    "Type": "Cleanser",
+    "Brand": "Dermaelle",
+    "QuantityInStock": 150,
+    "Rate": 4.7
+  },
+  {
+      "Name": "Heartleaf 70% Intense Calming Cream 50ml",
+    "Description": "A soothing and hydrating cream formulated with 70% Heartleaf extract to calm sensitive skin and provide intense hydration. Perfect for reducing redness and irritation while keeping the skin moisturized and nourished.",
+    "Price": 180.00,
+    "PictureUrl": "/images/products/51wOteS7eXL._AC_UL600_SR600,600_.jpg",
+    "Type": "Shower Cream",
+    "Brand": "Dove",
+    "QuantityInStock": 250,
+    "Rate": 8.7
+  },
+  {
+    "Name": "Vanilla Lace Body Mist",
+    "Description": "An enchanting body mist with a captivating vanilla fragrance to leave you feeling fresh all day.",
+    "Price": 250.00,
+    "PictureUrl": "/images/products/bodymist.jpg",
+    "Type": "Body Mist",
+    "Brand": "Victoria's Secret",
+    "QuantityInStock": 200,
+    "Rate": 5.9
+  }
+]

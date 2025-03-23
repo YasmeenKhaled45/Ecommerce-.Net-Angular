@@ -1,0 +1,29 @@
+<header class="border-b p-3 w-full shadow-md max-h-20 fixed top-0 z-50" id="header">
+ <div class="flex flex-row align-middle items-center justify-between max-w-screen-2xl mx-auto">
+  <img 
+  src="/images/logo4.jpg" 
+  alt="applogo" 
+  class="max-h-12 object-contain transition-transform duration-300 transform hover:scale-105"
+  routerLink="/"
+>
+   <nav class="flex gap-3 my-2 uppercase text-xl">
+      <a class="text-black font-semibold" routerLink="/">Home</a>
+      <a class="text-black font-semibold" routerLink="/shop" >Shop</a>
+      <a class="text-black font-semibold" >Contact</a>
+   </nav>
+    <div class="flex gap-3 align-middle">
+      <a  routerLink="/cart" routerLinkActive="active" matBadge="{{cartservice.itemCount()}}"
+       matBadgeSize="large" class="custom-badge mt-2 mr-2 ">
+       <mat-icon class="text-black">shopping_cart</mat-icon>
+       <span class="ml-2 text-black">Cart</span>
+      </a>
+      <button routerLink="/account/login" mat-raised-button class="text-white bg-black"> Login</button>
+      <button routerLink="/account/Signup" mat-raised-button class="text-white bg-black"> SignUp</button>
+    </div> 
+ </div>
+</header>
+
+
+@if(busyservice.loading){
+  <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+}

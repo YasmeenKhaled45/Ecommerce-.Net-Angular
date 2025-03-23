@@ -1,0 +1,19 @@
+@if(product){
+   <mat-card appearance="raised" routerLink="/shop/{{product.id}}" class="product-card" >
+       <div class="product-card-container">
+           <img src="{{product.pictureUrl}}" alt="image of {{product.name}}" class="product-image">
+           <mat-card-content class="bg-white">
+               <h2 class="text-sm font-extrabold ">{{product.name}}</h2>
+               <p class="font-light font-semibold">{{product.price | currency: 'EGP'}}</p>
+           </mat-card-content>
+
+           <mat-card-actions class="bg-white" (click) = "$event.stopPropagation()">
+               <button mat-button="w-full" class="bg-white text-black" (click)="cartservice.addItemToCart(product)">
+                   <mat-icon>add_shopping_cart</mat-icon>
+                   Add to cart
+               </button>
+           </mat-card-actions>
+       </div>
+
+   </mat-card>
+}

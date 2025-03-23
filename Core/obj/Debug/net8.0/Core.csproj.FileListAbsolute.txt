@@ -1,0 +1,12 @@
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\bin\Debug\net8.0\Core.dll
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.dll
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\ref\Core.dll
