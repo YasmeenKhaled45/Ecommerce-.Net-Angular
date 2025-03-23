@@ -27,7 +27,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin", policy =>
     {
-        policy.WithOrigins("http://localhost:4200") // Frontend origin
+        policy.WithOrigins("http://localhost:51868"," https://localhost:51868") // Frontend origin
               .AllowAnyHeader()                    // Allow all headers
               .AllowAnyMethod()                    // Allow all HTTP methods
               .AllowCredentials();                 // Allow cookies and credentials
@@ -55,6 +55,7 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 app.UseRouting(); // Routing middleware must come first.
+app.UseHttpsRedirection();
 app.UseCors("AllowSpecificOrigin"); // Enable CORS for the specified origin.
 app.UseAuthentication(); // Add authentication middleware before authorization.
 app.UseAuthorization(); // Add authorization middleware after authentication.

@@ -6,6 +6,7 @@ C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.GeneratedM
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.sourcelink.json
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.dll
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Core\obj\Debug\net8.0\Core.pdb

@@ -8,6 +8,7 @@ C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infru
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfoInputs.cache
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfo.cs
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.sourcelink.json
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustr.16C4BF02.Up2Date
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\Infrustructure.dll
 C:\Users\omare\OneDrive\Desktop\Demo\Skint\Infrustructure\obj\Debug\net8.0\refint\Infrustructure.dll
